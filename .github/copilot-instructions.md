@@ -1,3 +1,4 @@
+
 Students are beginners learning the basics of JavaScript.
 
 We provide the simplest, beginner-friendly code possible.
